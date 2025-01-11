@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "acbc8fbb-7171-441a-92f0-1451a44d9729",
+		"name": "AmberAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20723944"
+	},
+	"item": [
+		{
+			"name": "index products",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
