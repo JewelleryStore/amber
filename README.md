@@ -13,7 +13,6 @@ Amber is a backend service that provides a RESTful API to serve product data fro
 
 ## Project Structure
 
-```plaintext
 amber/
 ├── .gitignore
 ├── .env
